@@ -1,0 +1,12 @@
+/Users/cx02334/Documents/Backend/cli-task-manager/src/main/java/com/example/cli/taskmanager/Main.java
+/Users/cx02334/Documents/Backend/cli-task-manager/src/main/java/com/example/cli/taskmanager/cli/AddCommand.java
+/Users/cx02334/Documents/Backend/cli-task-manager/src/main/java/com/example/cli/taskmanager/cli/CompleteCommand.java
+/Users/cx02334/Documents/Backend/cli-task-manager/src/main/java/com/example/cli/taskmanager/cli/DeleteCommand.java
+/Users/cx02334/Documents/Backend/cli-task-manager/src/main/java/com/example/cli/taskmanager/cli/ListCommand.java
+/Users/cx02334/Documents/Backend/cli-task-manager/src/main/java/com/example/cli/taskmanager/cli/TaskManagerApp.java
+/Users/cx02334/Documents/Backend/cli-task-manager/src/main/java/com/example/cli/taskmanager/domain/Priority.java
+/Users/cx02334/Documents/Backend/cli-task-manager/src/main/java/com/example/cli/taskmanager/domain/Status.java
+/Users/cx02334/Documents/Backend/cli-task-manager/src/main/java/com/example/cli/taskmanager/domain/Task.java
+/Users/cx02334/Documents/Backend/cli-task-manager/src/main/java/com/example/cli/taskmanager/storage/InMemoryTaskRepository.java
+/Users/cx02334/Documents/Backend/cli-task-manager/src/main/java/com/example/cli/taskmanager/storage/JsonFileTaskRepository.java
+/Users/cx02334/Documents/Backend/cli-task-manager/src/main/java/com/example/cli/taskmanager/storage/TaskRepository.java

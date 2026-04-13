@@ -1,0 +1,15 @@
+com/example/cli/taskmanager/storage/InMemoryTaskRepository.class
+com/example/cli/taskmanager/domain/Status.class
+com/example/cli/taskmanager/cli/ListCommand.class
+com/example/cli/taskmanager/cli/AddCommand.class
+com/example/cli/taskmanager/storage/JsonFileTaskRepository.class
+com/example/cli/taskmanager/cli/ListCommand$1.class
+com/example/cli/taskmanager/storage/TaskRepository.class
+com/example/cli/taskmanager/storage/JsonFileTaskRepository$1.class
+com/example/cli/taskmanager/cli/CompleteCommand.class
+com/example/cli/taskmanager/Main.class
+com/example/cli/taskmanager/cli/SortType.class
+com/example/cli/taskmanager/domain/Priority.class
+com/example/cli/taskmanager/cli/DeleteCommand.class
+com/example/cli/taskmanager/domain/Task.class
+com/example/cli/taskmanager/cli/TaskManagerApp.class
